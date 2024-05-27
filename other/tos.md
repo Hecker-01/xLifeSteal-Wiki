@@ -2,9 +2,7 @@
 description: Terms and Conditions for IA
 ---
 
-# ⛔ Legal
-
-## 📝Terms Of Service
+# 📝Terms Of Service
 
 ### Server Software
 

@@ -2,6 +2,5 @@
 description: Info about using a custom resource pack
 ---
 
-# 🎨 Customising
+# 🎨 Customizing resource packs
 
-content

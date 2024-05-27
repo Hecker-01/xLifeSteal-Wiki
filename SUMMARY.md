@@ -8,8 +8,8 @@
   * [lifesteal](plugin-usage/commands/lifesteal.md)
   * [withdraw](plugin-usage/commands/withdraw.md)
 * [🆗 Permissions](plugin-usage/permissions.md)
-* [📷 Resource pack](plugin-usage/resource-pack/README.md)
-  * [🎨 Customising](plugin-usage/resource-pack/customising.md)
+* [📷 Resource packs](plugin-usage/resource-pack/README.md)
+  * [🎨 Customizing resource packs](plugin-usage/resource-pack/customising.md)
 
 ## Configuration
 

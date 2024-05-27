@@ -2,6 +2,5 @@
 description: Information about using a resource pack
 ---
 
-# 📷 Resource pack
+# 📷 Resource packs
 
-content

@@ -1,6 +1,5 @@
 ---
-description: Informatie over het gebruik van een aangepast resourcepakket
+description: Info about using a custom resource pack
 ---
 
-# 🎨 Resourcepakketten aanpassen
-
+# 🎨 Editing resource packs

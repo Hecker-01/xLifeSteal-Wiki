@@ -18,3 +18,7 @@
 
 * [📄 config.yml](configuration/config.yml.md)
 * [📄 messages.yml](configuration/messages.yml.md)
+
+## other
+
+* [Page 1](other/page-1.md)

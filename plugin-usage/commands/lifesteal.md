@@ -1,5 +1,8 @@
 # lifesteal
 
-Het hoofdcommando voor xLifeSteal geeft een help/info-bericht weer
+The main command for xLifeSteal, displays a help/info message
 
 ## lifesteal ban
+## lifesteal unban
+## lifesteal sethearts
+## lifesteal reset

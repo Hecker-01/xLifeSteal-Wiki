@@ -1,15 +1,15 @@
 # Table of contents
 
-* [👋 Welcome](README.md)
+* [👋 Welkom](README.md)
 
 ## Plugin usage
 
-* [🖥️ Commands](plugin-usage/commands/README.md)
+* [🖥️ Commando's](plugin-usage/commands/README.md)
   * [lifesteal](plugin-usage/commands/lifesteal.md)
   * [withdraw](plugin-usage/commands/withdraw.md)
-* [🆗 Permissions](plugin-usage/permissions.md)
-* [📷 Resource pack](plugin-usage/resource-pack/README.md)
-  * [🎨 Customising](plugin-usage/resource-pack/customising.md)
+* [🆗 Permissies](plugin-usage/permissions.md)
+* [📷 Resource-pakketen](plugin-usage/resource-pack/README.md)
+  * [🎨 Aanpassen](plugin-usage/resource-pack/customising.md)
 
 ## Configuration
 

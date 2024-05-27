@@ -1,7 +1,7 @@
 ---
-description: The permissions xLifeSteal adds
+description: De permissies die xLifeSteal toevoegt
 ---
 
-# 🆗 Permissions
+# 🆗 Permissies
 
-content
+inhoud

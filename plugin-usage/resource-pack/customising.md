@@ -1,7 +1,7 @@
 ---
-description: Info about using a custom resource pack
+description: Informatie over het gebruik van een aangepast resourcepakket
 ---
 
-# 🎨 Customising
+# 🎨 Aanpassen
 
-content
+inhoud

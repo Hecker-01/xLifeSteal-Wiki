@@ -19,6 +19,7 @@
 * [📄 config.yml](configuration/config.yml.md)
 * [📄 messages.yml](configuration/messages.yml.md)
 
-## other
+## Other
 
-* [Page 1](other/page-1.md)
+* [❓ Frequently asked questions](other/faq.md)
+* [📝 Terms Of Service](other/tos.md)

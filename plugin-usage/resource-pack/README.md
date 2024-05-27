@@ -1,5 +1,5 @@
 ---
-description: Info about using a resoucepack
+description: Information about using a resource pack
 ---
 
 # 📷 Resource pack

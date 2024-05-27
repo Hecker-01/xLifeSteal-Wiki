@@ -10,3 +10,8 @@
 * [🆗 Permissions](plugin-usage/permissions.md)
 * [📷 Resource pack](plugin-usage/resource-pack/README.md)
   * [🎨 Customising](plugin-usage/resource-pack/customising.md)
+
+## Configuration
+
+* [📄 config.yml](configuration/config.yml.md)
+* [📄 messages.yml](configuration/messages.yml.md)

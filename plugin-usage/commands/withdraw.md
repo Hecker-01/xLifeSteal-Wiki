@@ -1,3 +1,3 @@
 # withdraw
 
-Withdraws hearts, if no amount specified it will withdraw 1 heart
+Trekt hartjes in. Als er geen aantal is gespecificeerd, wordt er 1 hartje ingetrokken

@@ -1,24 +1,12 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome](README.md)
 
-## Overview
+## Plugin usage
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
-
-## Product Guides
-
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [🖥️ Commands](plugin-usage/commands/README.md)
+  * [lifesteal](plugin-usage/commands/lifesteal.md)
+  * [withdraw](plugin-usage/commands/withdraw.md)
+* [🆗 Permissions](plugin-usage/permissions.md)
+* [📷 Resource pack](plugin-usage/resource-pack/README.md)
+  * [🎨 Customising](plugin-usage/resource-pack/customising.md)

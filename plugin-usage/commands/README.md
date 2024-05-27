@@ -4,8 +4,6 @@ description: The commands xLifeSteal adds
 
 # 🖥️ Commands
 
-
-
 {% hint style="info" %}
 <mark style="color:blue;">Blue text</mark> means that that part is customizable in [config.yml](../../configuration/config.yml.md)
 

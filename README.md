@@ -1,1 +1,6 @@
-# xLifeSteal-Wiki
+---
+layout: landing
+---
+
+# xLifeSteal Wiki
+

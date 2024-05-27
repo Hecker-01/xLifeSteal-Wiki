@@ -1,6 +1,6 @@
 ---
-description: Deze website helpt u alles over xLifeSteal te configureren en aan te passen
+description: This site helps you configure and customize everything about xLifeSteal
 ---
 
-# 👋 Welkom
+# 👋 Welcome
 

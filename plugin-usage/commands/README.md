@@ -1,8 +1,8 @@
 ---
-description: De commando's die xLifeSteal toevoegt
+description: The commands xLifeSteal adds
 ---
 
-# 🖥️ Commando's
+# 🖥️ Commands
 
 {% hint style="info" %}
 <mark style="color:blue;">Blauwe tekst</mark> betekent dat dit deel aanpasbaar is in [config.yml](../../configuration/config.yml.md)

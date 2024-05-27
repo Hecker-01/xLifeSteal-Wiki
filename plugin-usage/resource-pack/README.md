@@ -1,6 +1,5 @@
 ---
-description: Informatie over het gebruik van een resourcepakket
+description: Information about using a resource pack
 ---
 
-# 📷 Resourcepakketten
-
+# 📷 Resource packs

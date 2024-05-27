@@ -13,33 +13,36 @@ Then, after the branch creation, open the [**Github** repository](https://github
 
 <div>
 
-<img src="../.gitbook/assets/image%20(99)%20(1).png" alt="">
-
- 
-
-<figure><img src="../.gitbook/assets/firefox_lxaynBgU6t.png" alt=""><figcaption></figcaption></figure>
+<img src="../.gitbook/assets/how-to-fork.png" alt="">
 
 </div>
 
 Untick this option!
 
-<figure><img src="../.gitbook/assets/image%20(2)%20(1)%20(2)%20(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/untick-this.png" alt=""><figcaption></figcaption></figure>
 
-Click here to change the branch.
+Click here to add a new branch.
 
 {% hint style="warning" %}
 DO NOT EDIT THE `master` BRANCH!
+But create a new branch!
+{% endhint %}
+{% hint style="info" %}
+In this example we make a french translation and also a new `french` branch.
 {% endhint %}
 
-![](../.gitbook/assets/image%20\(94\).png)
+![](../.gitbook/assets/branch-selection.png)
+![](../.gitbook/assets/new-branch.png)
+![](../.gitbook/assets/new-branch-2.png)
+![](../.gitbook/assets/new-branch-3.png)
 
 Select a file you want to edit and press the **pen** button
 
-![](../.gitbook/assets/image%20\(63\).png)
+![](../.gitbook/assets/editing.png)
 
 Edit the file and then press <mark style="color:green;">**Commit changes**</mark>
 
-![](../.gitbook/assets/image%20\(76\)%20\(1\).png)
+![](../.gitbook/assets/committing.png)
 
 ## Important notes
 
@@ -58,18 +61,14 @@ Edit the file and then press <mark style="color:green;">**Commit changes**</mark
 * Do not remove `[TEXT](LINK)` part, translate only the text, these are the clickable links.
 {% endhint %}
 
-### Example of what you _<mark style="color:red;">must not</mark>_ edit
-
-![](../.gitbook/assets/image%20\(80\).png)
-
 ### Last step
 
 Contact **Hecker\_01** in order to get your changes reviewed and added to the wiki.\
-Feel free to ping **Hecker\_1** on the Discord or to open a support ticket in the community channel.
+Feel free to ping **Hecker\_1** on the [Discord](https://discord.gg/8ukXVGemBB) or to open a support ticket in the community channel.
 
 {% hint style="info" %}
 Would be good if you update your translation each time the main repository (the one in English) gets edited, to reflect changes.\
 You can keep track of changes in the Discord notification channel.
 
-<img src="../.gitbook/assets/image%20(73).png" alt="" data-size="original">
+<img src="../.gitbook/assets/wiki-updates.png" alt="" data-size="original">
 {% endhint %}
